@@ -1,0 +1,255 @@
+HAB Points,HatchPanel Points,Cargo Points,Climbing Points,Prematch,Your name (FirstName LastName),Match #,Team #,Starting Position,Starts on Level 2?,Sandstorm,Moved during sandstorm?,Crossed HAB line?,Starts with,# of hatch panels placed during sandstorm,# of cargo placed during sandstorm,Teleop,Hatch Panels,# of hatch panels on the cargo bay,# of hatch panels on the bottom of the rocket,# of hatch panels on the middle of the rocket,# of hatch panels on the top of the rocket,# of hatch panels missed,Cargo,# of cargo in the cargo bay,# of cargo in the bottom of the rocket,# of cargo in the middle of the rocket,# of cargo in the top of the rocket,# of cargo missed,Endgame,Climbing,Defense,Played defense successfully,"Weak to defense (tippy, easily pushed, etc)",% of time playing defense,Bad stuff,# of fouls,# of tech fouls,Robot disabled,Robot failure,Tipped over,Reckless driving,Yellow card,Red card,Comments
+3,2,9,3,,Parker Hutchinson,1,4089,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,1,0,,3,0,0,0,2,,Level 1,,FALSE,FALSE,0%,,0,0,,,,,,,
+0,0,0,3,,Ethan Rininger,1,4683,Spectator Side,TRUE,,FALSE,FALSE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,60%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,3,3,,Ulysses Glanzrock,1,4915,Judge Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,1,0,0,0,2,,Level 1,,,FALSE,0%,,0,0,,TRUE,,,,,Pushed team bot up to hab.
+6,6,0,3,,Lucas Nalley,1,7461,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,1,2,0,0,1,,0,0,0,0,0,,Level 1,,,,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+0,0,0,3,,Kate Treviño-Yoson,1,1294,Judge Side,TRUE,,TRUE,FALSE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,,,0%,,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+6,10,0,3,,Kate Treviño-Yoson,2,488,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,3,2,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,
+6,8,0,3,,Parker Hutchinson,2,3588,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,1,2,1,0,1,,0,0,0,0,0,,Level 1,,TRUE,FALSE,0%,,0,0,,,,,,,
+3,2,9,3,,Lucas Nalley,2,1899,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,0,0,0,0,0,,3,0,0,0,0,,Level 1,,TRUE,FALSE,40%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,2,12,12,,Ethan Rininger,2,3663,Judge Side,TRUE,,TRUE,TRUE,Cargo,0,0,,,0,1,0,0,0,,2,2,0,0,1,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Wacky climber
+6,4,15,3,,Nora Wilson,2,2930,Middle,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,2,0,0,0,,4,1,0,0,0,,Level 1,,TRUE,FALSE,30%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Failed climb
+3,0,0,3,,Ulysses Glanzrock,2,4173,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,TRUE,0%,,0,0,,,,TRUE,,,Slow and wobbly
+3,4,0,3,,Lucas Nalley,3,4180,Judge Side,FALSE,,TRUE,TRUE,Hatch,0,0,,,0,1,1,0,0,,0,0,0,0,0,,Level 1,,,,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,14,12,12,,Kate Treviño-Yoson,3,2910,Judge Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,2,4,0,0,0,,0,4,0,0,0,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Very efficient
+3,6,0,0,,Parker Hutchinson,3,7627,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,2,0,0,0,0,,0,0,0,0,0,,Not on HAB,,FALSE,TRUE,0%,,0,0,,,,,,,Very slow
+6,0,9,3,,Ethan Rininger,3,4681,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,3,0,0,0,3,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Kept missing on the cargo ship
+3,0,6,3,,Harrison Gilmore,3,1778,Middle,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,2,0,0,0,0,,Level 1,,FALSE,TRUE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Slow and uncoordinated
+3,8,6,0,,Nora Wilson,3,2976,Spectator Side,FALSE,,TRUE,TRUE,Hatch,1,0,,,0,0,2,1,0,,0,0,2,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,"their mechanism for manipulating hatches and cargo stopped working near the end, making them unable to complete their rocket. Then their robot stopped moving entirely."
+0,8,0,3,,Nora Wilson,4,1258,Spectator Side,TRUE,,TRUE,FALSE,Hatch,0,0,,,3,1,0,0,1,,0,0,0,0,0,,Level 1,,TRUE,FALSE,10%,,0,0,,,,,,,
+0,0,0,3,,Parker Hutchinson,4,3070,Spectator Side,TRUE,,FALSE,FALSE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,TRUE,FALSE,0%,,0,0,,,,,,,Did nothing but defense
+3,4,12,3,,Ulysses Glanzrock,4,3826,Judge Side,FALSE,,TRUE,TRUE,Hatch,1,0,,,0,1,0,0,0,,3,1,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Very versatile
+3,4,0,3,,Kate Treviño-Yoson,4,3268,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,2,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,TRUE,0%,,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,
+3,4,0,3,,Ethan Rininger,4,4512,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,0,1,1,0,2,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,1,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Super sketchy hatch system launched hatch panel at the beginning of sandstorm
+6,0,6,3,,Lucas Nalley,4,2412,Judge Side,TRUE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,2,0,0,0,1,,Level 1,,,,0%,,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Lift appeared to have a minor malfunction
+6,6,12,12,,Ulysses Glanzrock,5,1983,Spectator Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,2,0,0,0,0,,4,0,0,0,0,,Level 3,,TRUE,FALSE,10%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Fast and reliable.
+3,10,12,3,,Kate Treviño-Yoson,5,4911,Judge Side,FALSE,,TRUE,TRUE,Hatch,0,0,,,2,2,1,0,0,,2,2,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,2,0,0,,Parker Hutchinson,5,4682,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,0,1,0,3,,0,0,0,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,,,,,,,
+3,4,0,3,,Nora Wilson,5,3681,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,1,1,0,0,1,,0,0,0,0,0,,Level 1,,TRUE,FALSE,20%,,0,0,,,,,,,
+6,10,18,12,,Lucas Nalley,5,5803,Judge Side,TRUE,,TRUE,TRUE,Cargo,0,1,,,2,2,1,0,0,,5,0,0,0,0,,Level 3,,,,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,0,3,,Ethan Rininger,5,949,Middle,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,90%,,11,0,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,Kept trying to play defense with hatch panel system outside the frame perimeter
+6,0,3,12,,Kate Treviño-Yoson,6,4205,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,1,0,0,0,0,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,12,0,3,,Nora Wilson,6,5588,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,1,2,2,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,6,0,6,,Ulysses Glanzrock,6,2522,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,0,1,2,0,,0,0,0,0,1,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,Spun in circles a few times
+3,6,6,3,,Parker Hutchinson,6,492,Spectator Side,FALSE,,TRUE,TRUE,Hatch,1,0,,,0,0,1,1,0,,0,0,2,0,1,,Level 1,,FALSE,FALSE,0%,,0,0,,,,,,,
+3,2,9,3,,Lucas Nalley,6,4450,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,1,0,0,0,0,,3,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Strong bot, can do level 3 but is iffy and isn’t that strong."
+3,2,0,0,,Ethan Rininger,6,7118,Judge Side,FALSE,,TRUE,TRUE,Hatch,0,0,,,1,0,0,0,2,,0,0,0,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Sketchy suction cup hatch panel system
+3,10,12,3,,Harrison Gilmore,7,2930,Judge Side,FALSE,,TRUE,TRUE,Hatch,0,0,,,3,2,0,0,0,,3,1,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,8,18,3,,Kate Treviño-Yoson,7,2910,Judge Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,1,2,0,0,0,,2,4,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,0,0,12,,Parker,7,5827,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 3,,TRUE,FALSE,0%,,1,0,,,,,,,
+3,12,0,3,,Ulysses Glanzrock,7,4309,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,3,2,0,0,1,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Quick, hatch pannels only but good at its job"
+6,0,0,3,,Nora Wilson,7,3268,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,TRUE,FALSE,90%,,0,0,,,,,,,
+3,0,9,3,,Ethan Rininger,7,1899,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,1,,2,1,0,0,1,,Level 1,,FALSE,TRUE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Swerve is vulnerable to defense
+3,0,6,12,,Ulysses Glanzrock,8,4089,Middle,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,2,0,0,0,0,,Level 3,,FALSE,TRUE,0%,,0,0,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Opposing team broke its arm
+6,4,15,6,,Kate Treviño-Yoson,8,2928,Judge Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,0,0,1,0,0,,4,1,0,0,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,0,0,3,,Parker Hutchinson,8,3070,Spectator Side,TRUE,,TRUE,TRUE,Nothing,0,0,,,0,0,0,0,2,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,,,,,,,Had clear technical troubles
+6,6,0,3,,Nora Wilson,8,3588,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,1,1,1,1,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Dropped their hatch panel in samdstorm
+6,2,0,3,,Tanner Nalley,8,1258,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,1,0,0,0,0,,0,0,0,0,0,,Level 1,,TRUE,FALSE,80%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,One of the bumpers was beginning to fall off
+3,0,3,3,,Ethan Rininger,8,7461,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,3,,1,0,0,0,1,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Wacky arm kept dropping hatches and launching cargo super high
+3,0,9,12,,Nora Wilson,9,4915,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,3,0,0,0,0,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,0,3,,Parker Hutchinson,9,7627,Spectator Side,FALSE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,TRUE,0%,,0,0,,,,,,,Very slow
+6,2,0,3,,Ulysses Glanzrock,9,4180,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,1,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Bad
+3,0,6,6,,Ethan Rininger,9,4450,Middle,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,1,,2,0,0,0,1,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,0,0,3,,Kate Treviño-Yoson,9,4682,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,TRUE,0%,,0,0,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Disabled most of match
+3,0,0,3,,Tanner Nalley,9,3681,Spectator Side,FALSE,,TRUE,TRUE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,4,9,12,,Kate Treviño-Yoson,10,492,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,1,0,0,1,0,,0,1,0,2,0,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,10,6,3,,Tanner Nalley,10,4911,Spectator Side,FALSE,,TRUE,TRUE,Hatch,1,0,,,1,2,1,0,0,,1,1,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,4,0,12,,Ethan Rininger,10,488,Judge Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,1,0,0,0,0,,0,0,0,0,0,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Broke their climber, reset, AND STILL CLIMBED SUCCESSFULLY"
+6,4,0,3,,Nora Wilson,10,3826,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,1,1,0,0,1,,0,0,0,0,2,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,8,3,3,,Parker Hutchinson,10,1773,Middle,FALSE,,TRUE,TRUE,Cargo,0,0,,,4,0,0,0,0,,1,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,,,,,,,
+3,2,3,6,,Kate Treviño-Yoson,11,4205,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,1,0,0,0,0,,1,0,0,0,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,12,0,3,,Tanner Nalley,11,2976,Judge Side,FALSE,,TRUE,TRUE,Hatch,0,0,,,2,4,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+0,0,0,3,,Ulysses Glanzrock,11,4683,Judge Side,TRUE,,FALSE,FALSE,Cargo,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,TRUE,FALSE,100%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Played defence the whole game
+6,8,9,12,,Nora Wilson,11,1983,Spectator Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,3,0,0,0,0,,3,0,0,0,0,,Level 3,,TRUE,FALSE,10%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,0,0,3,,Ethan Rininger,11,4512,Judge Side,TRUE,,TRUE,TRUE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,TRUE,90%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,6,15,12,,Parker Hutchinson,11,3663,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,0,,,3,0,0,0,0,,4,1,0,0,1,,Level 3,,FALSE,FALSE,0%,,0,0,,,,,,,Very reliable and consistent
+3,10,0,3,,Parker Hutchinson,12,4173,Middle,FALSE,,TRUE,TRUE,Cargo,0,0,,,5,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,,,,,,,
+3,10,0,6,,Mitchell T,12,2522,Spectator Side,FALSE,,TRUE,TRUE,Hatch,0,0,,,1,2,1,1,0,,0,0,0,0,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,0,0,6,,Tanner Nalley,12,1294,Judge Side,TRUE,,TRUE,TRUE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 2,,TRUE,FALSE,100%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,6,0,3,,Kate Treviño-Yoson,12,4309,Middle,FALSE,,TRUE,TRUE,Nothing,0,0,,,2,1,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+0,4,0,12,,Ulysses Glanzrock,12,5827,Judge Side,FALSE,,FALSE,FALSE,Hatch,0,0,,,2,0,0,0,0,,0,0,0,0,0,,Level 3,,TRUE,FALSE,10%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Not very fast
+3,0,0,0,,Nora Wilson,12,949,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Not on HAB,,FALSE,TRUE,0%,,0,0,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Got stuck in one place and didn’t move the whole match
+3,12,0,3,,Tanner Nalley,13,5588,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,1,2,2,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,0,18,0,,Jake Benjamin,13,4681,Judge Side,TRUE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,4,2,0,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,Attempted level 2 climb but fell over
+6,0,0,3,,Kate Treviño-Yoson,13,7118,Spectator Side,TRUE,,TRUE,TRUE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Unable to collect hatches although many attempts tried
+3,0,0,0,,Nora Wilson,13,4180,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,2,,0,0,0,0,0,,Not on HAB,,FALSE,TRUE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,DNP
+6,6,9,12,,Ulysses Glanzrock,13,5803,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,3,0,0,0,0,,3,0,0,0,0,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Fast
+6,6,6,3,,Parker Hutchinson,13,3826,Spectator Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,0,2,0,0,0,,0,2,0,0,3,,Level 1,,FALSE,FALSE,0%,,0,0,,,,,,,
+3,2,0,0,,Parker Hutchinson,14,2976,Spectator Side,FALSE,,TRUE,TRUE,Hatch,1,0,,,0,0,0,0,0,,0,0,0,0,0,,Not on HAB,,,,0%,,0,0,,TRUE,,,,,
+6,0,3,6,,Ulysses Glanzrock,14,2928,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,0,,1,0,0,0,1,,Level 2,,TRUE,FALSE,10%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Not very good at placing cargo
+3,0,3,3,,Jake Benjamin,14,4915,Judge Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,1,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Our climbing leg went down and we couldn't move outside of spinning
+6,6,0,3,,Nora Wilson,14,4512,Judge Side,TRUE,,TRUE,TRUE,Nothing,0,0,,,1,0,1,1,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"I couldn’t see anything from where I was sitting at the time, so I missed 90% of what this robot did and my data is therefore unreliable"
+3,2,0,3,,Tanner Nalley,14,1899,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,0,0,0,0,4,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,3,12,,Kate Treviño-Yoson,14,492,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,0,,1,0,0,0,0,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,6,6,12,,Kate Treviño-Yoson,15,3663,Judge Side,TRUE,,TRUE,TRUE,Nothing,0,0,,,1,0,2,0,0,,0,0,2,0,0,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,0,15,3,,Parker Hutchinson,15,1294,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,5,0,0,0,1,,Level 1,,FALSE,FALSE,0%,,0,0,,,,,,,Very consistent cargo system
+6,8,0,3,,Lucas Nalley,15,3070,Judge Side,TRUE,,TRUE,TRUE,Nothing,0,0,,,2,2,0,0,0,,0,0,0,0,0,,Level 1,,,,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,9,3,,Jake Benjamin,15,949,Middle,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,3,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,At some points it didn't seem able to move
+6,0,15,6,,Nora Wilson,15,2412,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,1,,,0,0,0,0,0,,4,0,0,0,0,,Level 2,,,,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Speedy, handles cargo well"
+6,0,15,3,,Tanner Nalley,15,4682,Middle,TRUE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,1,2,2,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+0,0,3,3,,Kate Treviño-Yoson,16,4683,Spectator Side,TRUE,,FALSE,FALSE,Nothing,0,0,,,0,0,0,0,0,,0,1,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,8,0,3,,Tanner said,16,3681,Middle,FALSE,,TRUE,TRUE,Nothing,0,0,,,0,2,1,1,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+0,0,0,3,,Nora Wilson,16,4683,Spectator Side,TRUE,,FALSE,FALSE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,TRUE,60%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Didn’t do anything but I forget to mention, the last match I scouted the bot got a yellow card"
+6,0,9,3,,Parker Hutchinson,16,4173,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,3,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,,,,,,,Had short time intervals where the robot failed to respond to commands from the driver
+6,8,9,12,,Lucas Nalley,17,5803,Judge Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,0,1,2,0,0,,1,2,0,0,0,,Level 3,,,,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,3,6,,Jake Benjamin,16,4205,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,1,,1,0,0,0,2,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Missed many balls but has the potential to do hatch, cargo, and level 2 climb."
+3,4,9,3,,Kate Treviño-Yoson,17,2930,Middle,FALSE,,TRUE,TRUE,Nothing,0,0,,,1,1,0,0,0,,2,1,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,10,9,6,,Ethan Rininger,17,2522,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,1,2,2,0,,0,0,1,2,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Fast cycles
+3,0,3,3,,Tanner Nalley,17,1778,Judge Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,1,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,6,12,,Nora Wilson,17,4089,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,2,0,0,0,1,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,0,0,,Parker Hutchinson,17,7118,Judge Side,FALSE,,TRUE,TRUE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Not on HAB,,TRUE,FALSE,90%,,0,0,,,,,,,
+3,12,0,0,,Lucas Nalley,16,4309,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,4,2,0,0,0,,0,0,0,0,0,,Not on HAB,,,,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,8,0,12,,Nora Wilson,18,5827,Spectator Side,FALSE,,TRUE,TRUE,Hatch,1,0,,,3,0,0,0,0,,0,0,0,0,0,,Level 3,,TRUE,FALSE,10%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,6,0,3,,Kate Treviño-Yoson,18,1258,Judge Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,0,2,0,0,0,,0,0,0,0,0,,Level 1,,TRUE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,4,0,3,,Lucas Nalley,18,7461,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,1,1,0,0,1,,0,0,0,0,0,,Level 1,,,,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Level 2 drop dislodged hatch panel
+6,0,6,3,,Parker Hutchinson,18,3268,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,2,0,0,0,0,,Level 1,,FALSE,FALSE,20%,,0,0,,,,,,,Cargo launcher was somewhat reliable
+3,2,0,3,,Ethan Rininger,18,7627,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,90%,,1,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Played defense, but I couldn't see anything that was happening"
+6,8,0,3,,Tanner Nalley,18,488,Spectator Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,2,1,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"They have a level 2 climb, but they failed to activate it quick enough"
+6,6,3,0,,Parker Hutchinson,19,3588,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,2,0,1,0,0,,1,0,0,0,0,,Not on HAB,,FALSE,TRUE,0%,,0,0,,,,,,,Very unstable grabber mechanism
+3,4,12,3,,Nora Wilson,19,4450,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,2,0,0,0,0,,4,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,0,0,3,,Kate Treviño-Yoson,19,5588,Spectator Side,TRUE,,TRUE,TRUE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,TRUE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Only played defense the entire match
+6,6,3,0,,Tanner Nalley,19,1983,Judge Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,2,0,0,0,0,,1,0,0,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,
+6,12,12,12,,Lucas Nalley,19,2910,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,2,4,0,0,1,,2,2,0,0,1,,Level 3,,,,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,6,6,3,,Ethan Rininger,19,4911,Spectator Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,0,0,1,1,1,,0,0,0,2,0,,Level 1,,FALSE,TRUE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Got defended well by 5588
+0,0,0,3,,Ethan Rininger,20,4683,Spectator Side,TRUE,,FALSE,FALSE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,90%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Couldn't see defense
+6,8,15,12,,Austin Smith,20,3663,Judge Side,TRUE,,TRUE,TRUE,Cargo,0,1,,,0,2,2,0,0,,0,2,2,0,0,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Very clean game
+6,0,12,6,,Kate Treviño-Yoson,20,2522,Judge Side,TRUE,,TRUE,TRUE,Nothing,0,0,,,0,0,0,0,0,,0,1,2,1,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,6,6,0,,Nora Wilson,20,3681,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,1,1,1,0,0,,0,1,1,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Spent endgame on rocket
+3,4,0,0,,Tanner Nalley,20,2976,Spectator Side,FALSE,,TRUE,TRUE,Hatch,0,0,,,0,0,1,1,0,,0,0,0,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,
+6,8,0,3,,Austin Smith,21,1258,Judge Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,1,1,1,0,1,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,0,9,6,,Jake Benjamin,21,4205,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,1,,3,0,0,0,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,6,6,3,,Tanner Nalley,21,5803,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,2,1,0,0,0,,2,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+0,2,0,3,,Kate Treviño-Yoson,21,3268,Judge Side,TRUE,,FALSE,FALSE,Nothing,0,0,,,1,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,10,6,3,,Jake Benjamin,22,492,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,0,2,1,1,1,,0,2,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Fast cycle times and very accurate
+6,0,0,0,,Alex Perkins,22,3588,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Not on HAB,,,,0%,,0,0,,TRUE,,,,,Didn't move after sandstorm
+6,2,12,6,,Sunny gregson,22,4681,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,1,,,0,1,0,0,0,,3,0,0,0,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,0,3,,Tanner Nalley,22,7118,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Their side polycarb started to fall off
+6,12,12,12,,Alex Perkins,23,2910,Spectator Side,TRUE,,TRUE,TRUE,Hatch,3,1,,,2,1,0,0,0,,2,1,0,0,0,,Level 3,,,,0%,,0,0,,,,,,,
+3,8,0,3,,Tanner Nalley,23,488,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,1,2,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,They tried climbing level 3 but failed
+6,12,12,12,,Jake Benjamin,23,2910,Spectator Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,3,2,0,0,1,,1,3,0,0,0,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"They had very quick cycle teams and used swerve drives, they could pick hatches up off of the ground"
+3,2,12,3,,Tanner Nalley,24,1899,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,0,0,0,0,0,,4,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,0,9,3,,Alex Perkins,24,4173,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,3,0,0,0,2,,Level 1,,,,0%,,0,0,,,,,,,
+6,0,15,3,,Jake Benjamin,24,4173,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,1,,,0,0,0,0,0,,4,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Almost pulled its teammate off the hab at the end
+6,6,15,12,,Alex Perkins,25,2930,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,1,2,0,0,0,,4,1,0,0,0,,Level 3,,,,0%,,0,0,,,,,,,
+3,0,6,3,,Tanner Nalley,25,949,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,2,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,0,0,3,,Jake Benjamin,25,3070,Spectator Side,TRUE,,TRUE,TRUE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,TRUE,FALSE,30%,,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,"They attempted a level 2 climb, and their hatch intake didn't work"
+3,6,0,3,,Alex Perkins,26,3681,Spectator Side,FALSE,,TRUE,TRUE,Hatch,0,0,,,1,1,0,1,1,,0,0,0,0,0,,Level 1,,,,0%,,0,0,,,,,,,
+3,10,6,3,,Tanner Nalley,26,2976,Spectator Side,FALSE,,TRUE,TRUE,Hatch,1,0,,,0,1,2,1,0,,0,2,0,0,3,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,8,0,3,,Jake Benjamin,26,4309,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,3,1,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Had a ramp but did not deploy
+3,0,0,3,,Alex Perkins,27,1899,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,1,,0,0,0,0,0,,Level 1,,TRUE,FALSE,80%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Fast and omnidirectional
+3,0,12,0,,Tanner Nalley,27,4089,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,1,,,0,0,0,0,0,,3,0,0,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,They were on level 1 but fell off
+6,6,21,0,,Jake Benjamin,27,4911,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,1,,,2,1,0,0,0,,4,2,0,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,0,6,3,,Tanner Nalley,28,4173,Judge Side,TRUE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,2,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,12,0,3,,Alex Perkins,28,1258,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,2,2,2,0,0,,0,0,0,0,0,,Level 1,,,,0%,,0,0,,,,,,,
+3,6,12,12,,Jake Benjamin,28,5803,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,2,0,0,0,1,,4,0,0,0,0,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+0,0,0,3,,Alex Perkins,29,4683,Middle,FALSE,,FALSE,FALSE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,TRUE,FALSE,90%,,1,0,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,
+6,0,3,0,,Jake Benjamin,29,1294,Spectator Side,TRUE,,TRUE,TRUE,Nothing,0,0,,,0,0,0,0,0,,1,0,0,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Robot stopped moving and its elevator became very slow
+3,0,0,3,,Tanner Nalley,29,7627,Judge Side,FALSE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,TRUE,FALSE,70%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"They had a hatch panel stuck on their robot, so they could hardly do anything"
+3,0,12,12,,Alex Perkins,30,4915,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,4,0,0,0,1,,Level 3,,,,0%,,0,0,,,,,,,
+3,0,12,6,,Tanner Nalley,30,4450,Judge Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,3,1,0,0,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,6,9,3,,Jake Benjamin,30,3826,Judge Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,0,2,0,0,0,,1,2,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,15,3,,Parker Hutchinson,20,1778,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,5,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,,,,,,,
+3,2,9,3,,Jake Benjamin,31,3268,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,0,0,0,0,0,,3,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,6,0,0,,Parker Hutchinson,31,5588,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,1,1,1,0,0,,0,0,0,0,0,,Not on HAB,,,,0%,,0,0,,,,,,,
+0,0,9,0,,Jeffrey Tappen,21,3268,Judge Side,TRUE,,FALSE,FALSE,Cargo,0,0,,,0,0,0,0,0,,3,0,0,0,1,,Not on HAB,,,,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Unable to move for first 30 seconds
+6,0,0,0,,Jeffrey Tappen,22,1294,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,"Right of drivetrain not functioning after coming off lvl two, only spun"
+6,12,0,6,,Parker Hutchinson,32,2522,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,2,2,2,1,,0,0,0,0,0,,Level 2,,FALSE,FALSE,0%,,0,0,,,,,,,Reliable hatch mechanism
+6,6,12,6,,Jake Benjamin,32,1983,Spectator Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,2,0,0,0,0,,4,0,0,0,1,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Very quick cycle times
+3,0,3,0,,Parker Hutchinson,33,1294,Middle,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,1,0,0,0,1,,Not on HAB,,FALSE,TRUE,0%,,0,0,TRUE,TRUE,,,,,
+6,4,6,6,,Jake Benjamin,33,4173,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,0,,,0,0,1,1,0,,2,0,0,0,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,2,12,6,,Lucas Nalley,32,2412,Judge Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,0,0,0,0,0,,4,0,0,0,0,,Level 2,,,,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,6,0,3,,Parker Hutchinson,34,4512,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,1,1,1,3,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,,,,,,,
+6,4,0,6,,Jake Benjamin,34,2928,Spectator Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,0,1,0,0,0,,0,0,0,0,0,,Level 2,,TRUE,FALSE,70%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,4,0,3,,Lucas Nalley,34,3681,Judge Side,FALSE,,TRUE,TRUE,Hatch,0,0,,,1,0,1,0,1,,0,0,0,0,0,,Level 1,,,,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,9,6,,Jake Benjamin,35,4450,Middle,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,3,0,0,0,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,In this match red had great defense
+3,8,0,3,,Lucas Nalley,35,1258,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,2,1,1,0,0,,0,0,0,0,0,,Level 1,,,,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,2,6,3,,Parker Hutchinson,35,1899,Spectator Side,FALSE,,TRUE,TRUE,Hatch,1,0,,,0,0,0,0,0,,2,0,0,0,0,,Level 1,,TRUE,FALSE,50%,,0,0,,,,,,,
+3,2,0,0,,Parker Hutchinson,36,4682,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,1,0,0,0,0,,0,0,0,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,TRUE,TRUE,,,,,
+6,12,9,12,,Lucas Nalley,36,1983,Judge Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,0,1,2,2,0,,1,2,0,0,0,,Level 3,,,,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,10,0,0,,Jake Benjamin,36,4309,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,3,2,0,0,1,,0,0,0,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Deployed ramp, 5588 level 3 climbed off of it but fell over"
+6,0,0,3,,Lucas Nalley,37,3070,Judge Side,TRUE,,TRUE,TRUE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,TRUE,FALSE,100%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,2,3,3,,Jake Benjamin,37,949,Middle,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,1,0,0,,0,1,0,0,2,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,6,0,3,,Parker Hutchinson,37,7627,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,2,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,TRUE,0%,,0,0,,,,,,,Very very slow robot
+6,8,12,12,,Lucas Nalley,38,5803,Judge Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,3,0,0,0,0,,3,1,0,0,0,,Level 3,,,,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+0,0,0,3,,Parker Hutchinson,38,4683,Spectator Side,TRUE,,FALSE,FALSE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,TRUE,TRUE,100%,,1,0,,,,,,,Did nothing but defense
+6,0,15,3,,Jake Benjamin,38,2412,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,1,,,0,0,0,0,0,,3,1,0,0,0,,Level 1,,TRUE,FALSE,20%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,6,0,0,,Lucas Nalley,39,4512,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,1,1,1,2,,0,0,0,0,0,,Not on HAB,,,,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,0,9,6,,Jake Benjamin,39,7461,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,1,,,0,0,0,0,0,,2,0,0,0,2,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,10,6,3,,Parker Hutchinson,39,3826,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,2,2,1,0,0,,0,1,1,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,,,,,,,
+0,8,0,12,,Parker Hutchinson,40,488,Spectator Side,TRUE,,TRUE,FALSE,Hatch,0,0,,,2,1,1,0,0,,0,0,0,0,0,,Level 3,,,,0%,,0,0,,,,,,,Very effective hatch mechanism
+3,0,3,0,,Jake Benjamin,40,1294,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,1,0,0,0,0,,Not on HAB,,FALSE,FALSE,90%,,1,0,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,For most of the match they were not moving
+6,4,9,6,,Lucas Nalley,40,4205,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,2,0,0,0,0,,3,0,0,0,0,,Level 2,,,,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,4,3,0,,Emerson Nicholas,31,3663,Judge Side,FALSE,,TRUE,TRUE,Cargo,0,1,,,0,1,1,0,0,,0,0,0,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,
+3,6,0,0,,Parker Hutchinson,41,1778,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,3,0,0,0,0,,0,0,0,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,,,,,,,
+3,10,0,3,,Jake Benjamin,41,5827,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,2,2,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,10,0,3,,Emerson Nicholas,41,5827,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,2,2,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,15,3,,Nora Wilson,41,4915,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,3,2,0,0,0,,Level 1,,FALSE,FALSE,0%,,1,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,4,21,12,,Emerson Nicholas,42,2930,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,1,0,0,0,0,,5,2,0,0,0,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,6,0,3,,Nora Wilson,42,3681,Spectator Side,FALSE,,TRUE,TRUE,Hatch,0,0,,,0,2,1,0,1,,0,0,0,0,0,,Level 1,,FALSE,TRUE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Has a wobbly hatch mechanism
+3,8,0,3,,Parker Hutchinson,42,7627,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,2,1,0,0,1,,0,0,0,0,0,,Level 1,,FALSE,TRUE,0%,,0,0,,,,,,,
+3,0,0,3,,Parker Hutchinson,43,4309,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,TRUE,FALSE,100%,,0,0,,,,,,,
+0,0,0,3,,Emerson Nicholas,43,4683,Judge Side,TRUE,,FALSE,FALSE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,TRUE,FALSE,100%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,6,0,6,,Nora Wilson,43,2522,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,1,1,1,0,0,,0,0,0,0,0,,Level 2,,TRUE,FALSE,20%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,The only reason they got a middle panel on the robot is because they dropped it when trying to put it on the top part. So I don’t know if it counts as a missed panel or a middle one.
+6,0,21,12,,Emerson Nicholas,45,2412,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,1,,,0,0,0,0,0,,5,1,0,0,1,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,0,18,0,,Parker Hutchinson,44,4173,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,1,,,0,0,0,0,0,,5,0,0,0,0,,Not on HAB,,FALSE,TRUE,0%,,0,0,,,TRUE,,,,
+3,10,3,6,,Nora Wilson,44,2976,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,3,1,0,0,0,,0,1,0,0,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,8,0,12,,Parker Hutchinson,45,488,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,2,2,0,0,,0,0,0,0,0,,Level 3,,FALSE,FALSE,0%,,0,0,,,,,,,
+3,0,3,6,,Emerson Nicholas,44,4089,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,1,0,0,0,1,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,8,3,12,,Nora  Wilson,45,5803,Spectator Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,2,1,0,0,0,,1,0,0,0,1,,Level 3,,TRUE,FALSE,10%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,They would’ve done much better if they hadn’t been bothered by the other teams defensive robots
+3,2,15,3,,Emerson Nicholas,46,3588,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,0,0,0,0,0,,3,2,0,0,1,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,6,0,12,,Parker Hutchinson,46,5827,Spectator Side,FALSE,,TRUE,TRUE,Hatch,0,0,,,3,0,0,0,0,,0,0,0,0,0,,Level 3,,FALSE,FALSE,0%,,0,0,,,,,,,
+6,4,0,12,,Nora Wilson,46,4512,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,0,1,1,0,,0,0,0,0,0,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Climbed  with help of The Rampy Boi!!
+3,4,3,12,,Parker Hutchinson,47,492,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,0,1,1,0,0,,0,1,0,0,0,,Level 3,,FALSE,TRUE,0%,,0,0,,,,,,,
+3,16,9,12,,Emerson Nicholas,47,2910,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,3,4,0,0,0,,3,0,0,0,0,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+0,0,0,3,,Nora Wilson,47,4683,Spectator Side,TRUE,,FALSE,FALSE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,TRUE,FALSE,100%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,100% a defense bot
+6,14,0,3,,Emerson Nicholas,48,5588,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,2,2,2,1,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,0,0,,Parker Hutchinson,48,4915,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Not on HAB,,FALSE,TRUE,0%,,0,0,TRUE,TRUE,,,,,
+3,8,6,3,,Nora Wilson,48,4911,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,1,2,0,0,0,,2,0,0,0,0,,Level 1,,TRUE,TRUE,30%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Got very defensive near the end
+3,2,15,3,,Parker Hutchinson,49,1899,Middle,FALSE,,TRUE,TRUE,Cargo,0,0,,,1,0,0,0,0,,1,2,2,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,,,,,,,
+3,0,3,3,,Emerson Nicholas,49,4681,Middle,FALSE,,TRUE,TRUE,Nothing,0,0,,,0,0,0,0,1,,1,0,0,0,0,,Level 1,,TRUE,FALSE,30%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Spent a lot of time unsuccessfully pick up a hatch panel
+6,0,9,3,,Nora Wilson,49,2412,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,3,0,0,0,0,,Level 1,,FALSE,TRUE,10%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,0,15,6,,Emerson Nicholas,50,1294,Judge Side,TRUE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,3,0,2,0,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,9,3,,Parker Hutchinson,50,949,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,3,0,0,0,2,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,2,6,0,,Emerson Nicholas,51,4682,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,1,0,0,0,0,,2,0,0,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,10,0,3,,Justice James,51,2522,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,2,1,2,0,,0,0,0,0,0,,Level 1,,FALSE,TRUE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Weak to defense, but good. Unless 3070 is around."
+6,2,0,0,,Jake Benjamin,51,3070,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,1,0,0,0,0,,0,0,0,0,0,,Not on HAB,,FALSE,FALSE,90%,,0,0,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,They became stuck on the opponents side
+6,6,0,3,,Emerson Nicholas,52,4309,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,1,2,0,0,2,,0,0,0,0,0,,Level 1,,FALSE,TRUE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,2,0,3,,Jake Benjamin,52,1258,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,1,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,80%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,6,3,,Justice James,52,1899,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,1,,1,1,0,0,2,,Level 1,,FALSE,TRUE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"1258 hit hard with the defense, shytting down the whole blue alliance. Not easily pushed, but still stopped by 1258."
+3,14,0,3,,Jeffrey Tappen,51,488,Spectator Side,FALSE,,TRUE,TRUE,Hatch,1,0,,,1,2,3,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Failed lvl three climb
+6,0,18,12,,Jeffrey Tappen,52,2412,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,1,,,0,0,0,0,0,,5,0,0,0,0,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,0,3,,Emerson Nicholas,53,3268,Middle,FALSE,,TRUE,TRUE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,TRUE,FALSE,100%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,2,0,6,,Jake Benjamin,53,7461,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,1,0,0,0,1,,0,0,0,0,2,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,During sandstorm they immediatly dropped their hatch paneling
+6,0,0,6,,Jake Benjamin,53,7461,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,Got a red card because they propelled a hatch longer than 3 feet
+3,0,18,0,,Jeffrey Tappen,53,1778,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,1,,,0,0,0,0,0,,5,0,0,0,1,,Not on HAB,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,10,15,12,,Emerson Nicholas,54,2910,Judge Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,2,2,0,0,1,,3,2,0,0,1,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Juked defense so hard
+6,0,0,3,,Jake Benjamin,54,3070,Spectator Side,TRUE,,TRUE,TRUE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,TRUE,FALSE,80%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,A small piece might have come off of their robot
+6,10,9,0,,Justice James,53,1983,Spectator Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,2,2,0,0,0,,3,0,0,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Did not have time to climb.
+3,10,9,6,,Justice James,54,2930,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,2,2,0,0,0,,1,2,0,0,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,10,9,3,,Justice James,55,3826,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,2,1,2,0,0,,1,2,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,4,9,3,,Jake Benjamin,55,2976,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,0,0,0,1,0,,1,2,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,6,0,,Jeffrey Tappen,54,7118,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,2,0,0,0,1,,Not on HAB,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,4,15,0,,Jeffrey Tappen,55,3588,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,1,1,0,0,0,,3,2,0,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,2,0,3,,Emerson Nicholas,55,4180,Spectator Side,FALSE,,TRUE,TRUE,Hatch,1,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,8,9,3,,Jake Benjamin,56,4911,Judge Side,FALSE,,TRUE,TRUE,Hatch,1,0,,,0,1,2,0,0,,0,1,2,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,2,9,6,,Justice James,56,1294,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,1,0,0,0,0,,3,0,0,0,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,10,9,3,,Jeffrey Tappen,57,2928,Spectator Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,0,2,2,0,2,,1,2,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,8,15,12,,Justice James,57,5803,Spectator Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,1,2,0,0,0,,3,2,0,0,1,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,4,6,6,,Jake Benjamin,57,2522,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,0,1,1,0,,0,0,0,2,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,A hatch was dropped but replaced with another before the cargo could fall out
+3,0,0,0,,Emerson Nicholas,56,3681,Middle,FALSE,,TRUE,TRUE,Hatch,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Not on HAB,,FALSE,FALSE,0%,,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Turned off in match
+3,0,3,0,,Emerson Nicholas,57,4915,Judge Side,FALSE,,TRUE,TRUE,Cargo,0,1,,,0,0,0,0,0,,0,0,0,0,0,,Not on HAB,,FALSE,FALSE,100%,,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+6,8,0,3,,Emerson Nicholas,58,1258,Judge Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,3,1,0,0,1,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,0,3,3,,Jake Benjamin,59,7118,Judge Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,1,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,They had trouble getting cargo from their overhead tarp into the cargo bay
+3,12,9,6,,Jeffrey Tappen,57,492,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,1,2,2,0,0,,0,2,1,0,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,4,3,3,,Jeffrey Tappen,58,3588,Spectator Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,1,0,0,0,0,,1,0,0,0,0,,Level 1,,FALSE,TRUE,80%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,4,9,12,,Emerson Nicholas,59,1983,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,1,0,0,0,1,,3,0,0,0,1,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,4,15,3,,Justice James,59,4681,Spectator Side,TRUE,,TRUE,TRUE,Cargo,0,1,,,0,2,0,0,0,,3,1,0,0,0,,Level 1,,FALSE,TRUE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Mechanum, but a good cycler."
+0,0,0,3,,Jeffrey Tappen,59,4683,Spectator Side,TRUE,,FALSE,FALSE,Nothing,0,0,,,0,0,0,0,0,,0,0,0,0,0,,Level 1,,FALSE,FALSE,100%,,1,0,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,
+6,0,9,0,,Jake M Benjamin,59,3268,Judge Side,TRUE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,3,0,0,0,1,,Not on HAB,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,8,0,12,,Emerson Nicholas,60,5827,Middle,FALSE,,TRUE,TRUE,Hatch,1,0,,,1,2,0,0,0,,0,0,0,0,0,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,8,0,3,,Jeffrey Tappen,60,7627,Spectator Side,FALSE,,TRUE,TRUE,Hatch,1,0,,,2,1,0,0,1,,0,0,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+6,2,0,6,,Jake Benjamin,60,5588,Spectator Side,TRUE,,TRUE,TRUE,Hatch,0,0,,,0,1,0,0,0,,0,0,0,0,1,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Was focused on at one point by a defender
+0,8,15,6,,Justice Jamea,60,2522,Spectator Side,TRUE,,TRUE,FALSE,Cargo,0,0,,,0,0,2,2,0,,1,0,2,2,0,,Level 2,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Rocket bot, and very good at it. No defense was played."
+3,0,18,3,,Justice James,61,1778,Spectator Side,FALSE,,TRUE,TRUE,Cargo,0,0,,,0,0,0,0,0,,5,1,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+3,6,6,12,,Jake Benjamin,61,2930,Middle,FALSE,,TRUE,TRUE,Hatch,0,1,,,3,0,0,0,0,,1,0,0,0,1,,Level 3,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Double stacked a cargo bay
+6,10,3,3,,Emerson Nicholas,61,3826,Spectator Side,TRUE,,TRUE,TRUE,Hatch,1,0,,,0,2,2,0,0,,0,1,0,0,0,,Level 1,,FALSE,FALSE,0%,,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
